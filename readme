@@ -11,3 +11,10 @@ git merge estudiante
 git push u- origin estudiante
 git push
 git pull
+-----------------------------------------------
+Paleta de Colores para la pagina
+#A8A8A8 Gris claro
+#CC527B Rosa claro
+#E9175E Rosado
+#484848 Gris medio
+#363636 Gris oscuro
